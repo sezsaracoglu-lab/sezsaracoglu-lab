@@ -4,21 +4,20 @@ Welcome to my study library. I use this space to organise my psychology learning
 
 ## 📘 History and Methods
 
-- [Theme 1: (link-here)
-- [Theme 2: (link-here)
-- [Theme 2: (link-here)
-- [Theme 3: (link-here)
-- [Theme 4](link-here)
-- [Theme 5](link-here)
-- [Theme 6](link-here)
-- [Theme 7](link-here)
+- Theme 1
+- Theme 2
+- Theme 3
+- Theme 4
+- Theme 5
+- Theme 6
+- Theme 7
 
 ## 🌍 Cultural Psychology
 
-- [Theme 1](link-here)
-- [Theme 2: (link-here)
-- [Theme 3](link-here)
-- [Theme 4](link-here)
-- [Theme 5](link-here)
-- [Theme 6](link-here)
-- [Theme 7](link-here)
+- Theme 1
+- Theme 2
+- Theme 3
+- Theme 4
+- Theme 5
+- Theme 6
+- Theme 7
