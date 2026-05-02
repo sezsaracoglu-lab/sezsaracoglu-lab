@@ -1,16 +1,24 @@
-## Hi there 👋
+# My Study Projects
 
-<!--
-**sezsaracoglu-lab/sezsaracoglu-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my study library. I use this space to organise my psychology learning projects.
 
-Here are some ideas to get you started:
+## 📘 History and Methods
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Theme 1: (link-here)
+- [Theme 2: (link-here)
+- [Theme 2: (link-here)
+- [Theme 3: (link-here)
+- [Theme 4](link-here)
+- [Theme 5](link-here)
+- [Theme 6](link-here)
+- [Theme 7](link-here)
+
+## 🌍 Cultural Psychology
+
+- [Theme 1](link-here)
+- [Theme 2: (link-here)
+- [Theme 3](link-here)
+- [Theme 4](link-here)
+- [Theme 5](link-here)
+- [Theme 6](link-here)
+- [Theme 7](link-here)
