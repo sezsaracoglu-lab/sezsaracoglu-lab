@@ -15,7 +15,7 @@ Welcome to my study library. I use this space to organise my psychology learning
 
 ## 🌍 Cultural Psychology
 
-- Theme 1
+- [Theme 1](https://sezsaracoglu-lab.github.io/CULTURAL_Theme1_Reading1/)
 - Theme 2
 - Theme 3
 - Theme 4
