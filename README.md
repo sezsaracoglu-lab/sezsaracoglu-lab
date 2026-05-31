@@ -13,8 +13,9 @@ Welcome to my study library. I use this space to organise my psychology learning
 - [Theme 3: Reading 4 and 5](https://sezsaracoglu-lab.github.io/HISTORY_Theme3_Reading4and5/)
 - [Theme 4 : Study materials]( https://sezsaracoglu-lab.github.io/HISTORY_Theme_4/ )
 - [Theme 4: Visual teaching](https://sezsaracoglu-lab.github.io/HISTORY_Theme_4_Visual/)
-- [Theme 5 : Reading 2](https://sezsaracoglu-lab.github.io/HISTORY_Theme_5_Reading2/)
+- [Theme 5 : Study materials](https://sezsaracoglu-lab.github.io/HISTORY_Theme_5_Reading2/)
 - [Theme 5 : Checklist](https://sezsaracoglu-lab.github.io/HISTORY_Theme5_Checklist/)
+- [Theme 5: Visual teachings](https://sezsaracoglu-lab.github.io/HISTORY_Theme5_Visual/)
 - [Theme 6: Reading](https://sezsaracoglu-lab.github.io/HISTORY_Theme6/)
 - Theme 7
 
