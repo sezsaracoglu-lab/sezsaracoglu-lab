@@ -17,6 +17,7 @@ Welcome to my study library. I use this space to organise my psychology learning
 - [Theme 5 : Checklist](https://sezsaracoglu-lab.github.io/HISTORY_Theme5_Checklist/)
 - [Theme 5: Visual teachings](https://sezsaracoglu-lab.github.io/HISTORY_Theme5_Visual/)
 - [Theme 6: Reading](https://sezsaracoglu-lab.github.io/HISTORY_Theme6/)
+- [Theme 6: Visual teaching](https://sezsaracoglu-lab.github.io/HISTORY_Theme6_Visual/)
 - Theme 7
 
 ## 🌍 Cultural Psychology
