@@ -24,6 +24,5 @@ Welcome to my study library. I use this space to organise my psychology learning
 - Theme 2
 - Theme 3
 - [Theme 4: Reading 1](https://sezsaracoglu-lab.github.io/CULTURAL_Theme4_Readings/)
-- Theme 5
-- Theme 6
-- Theme 7
+- [Theme 5: Reading 1](https://sezsaracoglu-lab.github.io/CULTURAL_Theme_5/)
+
