@@ -6,8 +6,8 @@ Welcome to my study library. I use this space to organise my psychology learning
 
 - [Theme 3: Checklist Visuals](https://sezsaracoglu-lab.github.io/HISTORY_Theme3_Chechlist_Visual/)
 - [Theme 4: Checklist Visual](https://sezsaracoglu-lab.github.io/HISTORY_Theme_4_Visual/)
-- [Theme 5: Checklist_visual](https://sezsaracoglu-lab.github.io/HISTORY_Theme5_-Checklist_Visual/)
-- [Theme 6: Visual teaching](https://sezsaracoglu-lab.github.io/HISTORY_Theme6_Visual/)
+- [Theme 5: Checklist Visual](https://sezsaracoglu-lab.github.io/HISTORY_Theme5_-Checklist_Visual/)
+- [Theme 6: Checklist Visual](https://sezsaracoglu-lab.github.io/HISTORY_Theme6_Visual/)
 
 ## 📘 History and Methods
 
