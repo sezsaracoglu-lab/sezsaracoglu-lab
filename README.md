@@ -2,7 +2,7 @@
 
 Welcome to my study library. I use this space to organise my psychology learning projects.
 
-## 📘 History and Methods Checklist Visual
+## 🔮 History and Methods Checklist Visual
 
 - [Theme 1: Checklist Visual](https://sezsaracoglu-lab.github.io/HISTORY_Theme1_Visual/)
 - [Theme 2: Checklist Visual](https://sezsaracoglu-lab.github.io/HISTORY_Theme2_Checklist_Visuals/)
@@ -13,7 +13,7 @@ Welcome to my study library. I use this space to organise my psychology learning
 - [Theme 7: Checklist Visual](https://sezsaracoglu-lab.github.io/HISTORY_THEME7/)
 - [ Museum of the Mind](https://sezsaracoglu-lab.github.io/The_Museum_of_the_Mind/)
 
-## 🧿 Mind Maps 
+## 📽 Mind Maps 
 
 - [ Theme 1-Mindmap](https://sezsaracoglu-lab.github.io/HISTORY_Theme1_Mindmap/)
 - [Theme 2-MIndmap](https://sezsaracoglu-lab.github.io/HISTORY_Theme_2_Mindmap/)
