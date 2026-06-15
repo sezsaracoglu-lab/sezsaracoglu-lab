@@ -20,6 +20,7 @@ Welcome to my study library. I use this space to organise my psychology learning
 - [Theme 3-Mindmap](https://sezsaracoglu-lab.github.io/HISTORY_Theme3_Mindmap/)
 - [Theme 4- Mindmap](https://sezsaracoglu-lab.github.io/HISTORY_Theme4_Mindmap/)
 - [Theme 5- Mindmap](https://sezsaracoglu-lab.github.io/HISTORY_Theme5_Mindmap/)
+- [Theme 6- Mindmap](https://sezsaracoglu-lab.github.io/HISTORY_Theme6_Mindmap/)
 
 
 ## 🌍 Cultural Psychology
