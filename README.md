@@ -18,6 +18,7 @@ Welcome to my study library. I use this space to organise my psychology learning
 - [ Theme 1-Mindmap](https://sezsaracoglu-lab.github.io/HISTORY_Theme1_Mindmap/)
 - [Theme 2-Mindmap](https://sezsaracoglu-lab.github.io/HISTORY_Theme_2_Mindmap/)
 - [Theme 3-Mindmap](https://sezsaracoglu-lab.github.io/HISTORY_Theme3_Mindmap/)
+- [Theme 4- Mindmap](https://sezsaracoglu-lab.github.io/HISTORY_Theme4_Mindmap/)
 
 
 ## 📘 History and Methods
