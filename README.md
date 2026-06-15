@@ -13,10 +13,9 @@ Welcome to my study library. I use this space to organise my psychology learning
 - [Theme 7: Checklist Visual](https://sezsaracoglu-lab.github.io/HISTORY_THEME7/)
 - [ Museum of the Mind](https://sezsaracoglu-lab.github.io/The_Museum_of_the_Mind/)
 
-## 📘 Moc Exams
+## 🧿 Mind Maps 
 
-
- [Moc Exam Set _1 ](https://sezsaracoglu-lab.github.io/HISTORY_All-Theme_Exam_Set_1/)
+- [ Theme 1-Mindmap](https://sezsaracoglu-lab.github.io/HISTORY_Theme1_Mindmap/)
 
 
 ## 📘 History and Methods
