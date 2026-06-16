@@ -27,7 +27,7 @@ Welcome to my study library. I use this space to organise my psychology learning
 
 - [Theme 1: Checklist Visual](https://sezsaracoglu-lab.github.io/CULTURAL_Theme1_Checklist-Visual/)
 - [Theme 2: Checklist Visual](https://sezsaracoglu-lab.github.io/CULTURAL_Theme2_Cheklist-Visual/)
-- [Theme 3: Checklist Visual[(https://sezsaracoglu-lab.github.io/CULTURAL_Theme3_Checklist/)
+- [Theme 3: Checklist Visual](https://sezsaracoglu-lab.github.io/CULTURAL_Theme3_Checklist/)
 - [Theme 4: Reading 1](https://sezsaracoglu-lab.github.io/CULTURAL_Theme4_Readings/)
 - [Theme 5: Reading 1](https://sezsaracoglu-lab.github.io/CULTURAL_Theme_5/)
 
