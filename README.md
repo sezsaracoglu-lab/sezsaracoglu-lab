@@ -13,7 +13,7 @@ Welcome to my study library. I use this space to organise my psychology learning
 - [Theme 7: Checklist Visual](https://sezsaracoglu-lab.github.io/HISTORY_THEME7/)
 - [ Museum of the Mind](https://sezsaracoglu-lab.github.io/The_Museum_of_the_Mind/)
 
-## 📽 Mind Maps 
+## 📽 History and Methods Mind Maps 
 
 - [ Theme 1-Mindmap](https://sezsaracoglu-lab.github.io/HISTORY_Theme1_Mindmap/)
 - [Theme 2-Mindmap](https://sezsaracoglu-lab.github.io/HISTORY_Theme_2_Mindmap/)
@@ -31,6 +31,7 @@ Welcome to my study library. I use this space to organise my psychology learning
 - [Theme 4: Checklist Visual](https://sezsaracoglu-lab.github.io/CULTURAL_Theme4_Checklist_visual/)
 - [Theme 5: Checklist Visual](https://sezsaracoglu-lab.github.io/CULTURAL_Theme5_Checklist/)
 
-## 👩🏻‍🎤 Lecture Notes
+## 👩🏻‍🎤 Cultural Psychology Lecture Notes & Exam Questions
 
 - [Lecture Notes](https://sezsaracoglu-lab.github.io/CULTURAL_Lecture_notes/)
+- [2025 Exam Questions](https://sezsaracoglu-lab.github.io/Cultural_2025_questions/)
