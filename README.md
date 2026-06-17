@@ -30,3 +30,6 @@ Welcome to my study library. I use this space to organise my psychology learning
 - [Theme 3: Checklist Visual](https://sezsaracoglu-lab.github.io/CULTURAL_Theme3_Checklist/)
 - [Theme 4: Checklist Visual](https://sezsaracoglu-lab.github.io/CULTURAL_Theme4_Checklist_visual/)
 - [Theme 5: Checklist Visual](https://sezsaracoglu-lab.github.io/CULTURAL_Theme5_Checklist/)
+
+## 👩🏻‍🎤 Lecture Notes
+-[Lecture Notes](https://sezsaracoglu-lab.github.io/CULTURAL_Lecture_notes/)
