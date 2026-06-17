@@ -36,4 +36,5 @@ Welcome to my study library. I use this space to organise my psychology learning
 
 - [Lecture Notes](https://sezsaracoglu-lab.github.io/CULTURAL_Lecture_notes/)
 - [2025 Exam Questions](https://sezsaracoglu-lab.github.io/Cultural_2025_questions/)
-- [Moc Exams](https://sezsaracoglu-lab.github.io/CULTURAL_Moc_Exams/)
+- [Moc Exam - 1](https://sezsaracoglu-lab.github.io/CULTURAL_Moc_Exams/)
+- [Moc Exam - 2](https://sezsaracoglu-lab.github.io/culturalmocexam2/)
