@@ -43,4 +43,4 @@ Welcome to my study library. I use this space to organise my psychology learning
 ## 👩🏻‍🎤 Clinical_Mental health I
 
 - [Theme 2: Visual teachings- ASD](https://sezsaracoglu-lab.github.io/Clinical_Theme2/)
-- [Theme 3: Visual teachings- Mood Disorders] (https://sezsaracoglu-lab.github.io/Clinical_theme3/)
+- [Theme 3: Visual teachings- Mood Disorders](https://sezsaracoglu-lab.github.io/Clinical_theme3/)
