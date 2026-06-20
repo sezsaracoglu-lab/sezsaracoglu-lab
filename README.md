@@ -46,3 +46,4 @@ Welcome to my study library. I use this space to organise my psychology learning
 - [Theme 3: Visual teachings- Mood Disorders](https://sezsaracoglu-lab.github.io/Clinical_theme3/)
 - [Theme 4: Visual teachings- ADHD](https://sezsaracoglu-lab.github.io/Clinical4_ADHD/)
 - [Theme 5: Visual teachings- Anxiety](https://sezsaracoglu-lab.github.io/Clinical_theme5/)
+- [Theme 6: Visual teachings - Eating disorder](https://sezsaracoglu-lab.github.io/clinical_theme6/)
